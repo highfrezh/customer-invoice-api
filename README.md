@@ -8,7 +8,7 @@ The API documentation is available [here](https://documenter.getpostman.com/view
 
 
 ## Prerequisites
-This API relies on MySQL, PHP 8+ and composer for any meaningful work, so make sure you have all the required libraries installed either locally or remote, depending on your setup. See [https://laravel.com/docs/8.x/installation](https://laravel.com/docs/9.x/installation) for information about setting up Laravel on your machine
+This API relies on MySQL, PHP 8+ and composer for any meaningful work, so make sure you have all the required libraries installed either locally or remote, depending on your setup. See [https://laravel.com/docs/9.x/installation](https://laravel.com/docs/9.x/installation) for information about setting up Laravel on your machine
 
 ## Quick Start
 You should have the all the necessary libraries installed on your machine after following all the steps in the URI given in the ```Prerequisites``` section.
@@ -69,5 +69,5 @@ $ php artisan serve
 Below is a list of improvements I would like to make on this codebase:
 
 
-- #### Create UI for login and generating Token.  
+- #### Create UI for registration, login and generating Token.  
 - #### Create a separate app (a VueJs app) to consume the API.
